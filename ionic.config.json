@@ -1,0 +1,7 @@
+{
+  "name": "ng19",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
