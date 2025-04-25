@@ -7,7 +7,7 @@ const config: CapacitorConfig = {
   plugins: {
     CodePush: {
       IOS_DEPLOY_KEY: "0wkWluevWItPxkw4QgNemjYgwCze4ksvOXqog",
-      ANDROID_DEPLOY_KEY: "bcb84e5d-20a9-11f0-ac32-0242ac180005",
+      ANDROID_DEPLOY_KEY: "[key]",
       SERVER_URL: "https://server.recodepush.com/"
     },
   },
